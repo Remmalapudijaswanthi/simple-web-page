@@ -1,0 +1,37 @@
+body{
+    background-color: antiquewhite;
+    color: black;
+}
+h1{
+    color: black;
+}
+p{
+    font-size: medium;
+    line-height: 1.6;
+}
+img{
+    width: 300px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+a{
+    color: rgb(110, 14, 201);
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.button{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: rgb(68, 67, 67);
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: medium;
+}
+.button:hover{
+    background-color: rgb(8, 8, 8);
+}
